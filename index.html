@@ -3,10 +3,13 @@
 <head>
 	<meta charset="utf-8">
 	<title>leaderboards</title>
-	<script type="text/javascript" src="jquery.js"></script>
 	<script type="text/javascript" src="commands.js"></script>
-
 	<style type="text/css">
+		body{
+			color: white;
+			background-color: #111;
+		}
+		
 		a{
 			color: black;
 		}
@@ -25,17 +28,96 @@
 		  padding: 8px;
 		}
 
-		tr:nth-child(even){background-color: #7974f2}
-		tr:nth-child(odd){background-color: #7ca9f2}
+		tr:nth-child(even){background-color: #444}
+		tr:nth-child(odd){background-color: #222}
 
 		th {
-		  background-color: #1d16e0;
+		  background-color: black;
 		  color: white;
 		}
+
+		#dropdown{
+			border-color: #AAA;
+			vertical-align: center;
+			background-color: black;
+			color: white;
+			float: left;
+			padding: 5px;
+			-moz-appearance: none;
+    		-webkit-appearance: none;
+			appearance: none;
+			background-image: url('dropdown.png'),
+      linear-gradient(to bottom, black 0%,black 100%);
+    background-repeat: no-repeat, repeat;
+    background-position: right .7em top 50%, 0 0;
+    background-size: .65em auto, 100%;
+		}
+
+		#dropdown option:nth-child(even){
+			background-color: #666;
+			padding: 5px;
+		}
+
+		#dropdown option:nth-child(odd){
+			background-color: #444;
+			padding: 5px;
+		}
+
 	</style>
 </head>
 <body>
-	<div id="title"><b><h1>5x5 Single</h1></b></div>
+	<form>
+		<select name="eventSelect" id="dropdown" onchange="changeEvent()">
+			<option value="3x3 blind ao5">3x3 blind ao5</option>
+
+			<option value="4x4 single">4x4 single</option>
+			<option value="4x4 ao5">4x4 ao5</option>
+			<option value="4x4 FMC">4x4 FMC</option>
+			<option value="4x4 blind">4x4 blind</option>
+
+			<option value="5x5 single" selected>5x5 single</option>
+			<option value="5x5 ao5">5x5 ao5</option>
+			<option value="5x5 FM">5x5 FMC</option>
+			<option value="5x5 blind">5x5 blind</option>
+
+			<option value="6x6 single">6x6 single</option>
+			<option value="6x6 ao5">6x6 ao5</option>
+			<option value="6x6 FMC">6x6 FMC</option>
+
+			<option value="7x7 single">7x7 single</option>
+			<option value="7x7 ao5">7x7 ao5</option>
+			<option value="7x7 FMC">7x7 FMC</option>
+
+			<option value="8x8 single">8x8 single</option>
+			<option value="8x8 ao5">8x8 ao5</option>
+
+			<option value="9x9 single">9x9 single</option>
+			<option value="9x9 ao5">9x9 ao5</option>
+
+			<option value="10x10 single">10x10 single</option>
+			<option value="10x10 ao5">10x10 ao5</option>
+
+			<option value="11x11 single">11x11 single</option>
+			<option value="11x11 ao5">11x11 ao5</option>
+
+			<option value="12x12 single">12x12 single</option>
+			<option value="12x12 ao5">12x12 ao5</option>
+
+			<option value="14x14 single">14x14 single</option>
+			<option value="14x14 ao5">14x14 ao5</option>
+
+			<option value="15x15 single" selected>15x15 single</option>
+			<option value="15x15 mo3">15x15 mo3</option>
+
+			<option value="20x20 single" selected>20x20 single</option>
+			<option value="20x20 ao3">20x20 mo3</option>
+
+			<option value="hexaloop 3x3 single">hexaloop 3x3 single</option>
+			<option value="hexaloop 3x3 FMC">hexaloop 3x3 FMC</option>
+			<option value="Hexaloop 4x4">Hexaloop 4x4</option>
+		</select>
+	</form>
+	<div id="title"><b><h1 id="event">5x5 single</h1></b></div>
 	<table id="table">
 		<tr id="header">
 			<th>Name</th>
@@ -46,6 +128,6 @@
 		</tr>
 	</table>
 
-	
+	<script>changeEvent();</script>
 </body>
 </html>
