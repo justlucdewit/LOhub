@@ -3,19 +3,19 @@ import datetime
 from sys import argv
 from os import system as s
 
-if len(argv) > 0:
+if len(argv) > 1 and argv[1] == "send":
 	s("git add .")
 	s("git commit -m \"added more submissions\"")
 	s("git push origin master")
 	exit()
 
 #submit name event time link [moves]
-name = input("name")
-time = input("time")
-moves = input("moves")
-link = input("evidence")
-
-if argv[2] == "3x3b5":
+name = input("name: ")
+time = input("time: ")
+moves = input("moves: ")
+link = input("evidence: ")
+evnt = input("event: ")
+if evnt == "3x3b5":
 	event = "3x3 blind ao5"
 
 file = open(f'data/{event}.json')
