@@ -17,6 +17,14 @@ link = input("evidence: ")
 evnt = input("event: ")
 if evnt == "3x3b5":
 	event = "3x3 blind ao5"
+if evnt == "4x4s":
+	event = "4x4 single"
+if evnt == "4x45":
+	event = "4x4 ao5"
+if evnt == "4x4f":
+	event = "4x4 FMC"
+if evnt == "4x4b":
+	event = "4x4 blind"
 
 file = open(f'data/{event}.json')
 
@@ -33,12 +41,7 @@ def submit(name, time, link, moves="/"):
 	submission['date'] = f'{now.year}-{months[now.month-1]}-{now.day}'
 	#submission['date'] = f'{input("year: ")}-{input("year: ")}-{input("day: ")}'
 	submission['evidence'] = link
-	if (link == "none"):
-		submission['evidence'] = '/'
-	if (moves != "none"):
-		submission['comments'] = f'{moves} moves'
-	else:
-		submission['comments'] = "/"
+	submission['comments'] = f'{moves} moves'
 
 	json_array.append(submission)
 	print("----submission----")
@@ -49,4 +52,4 @@ def submit(name, time, link, moves="/"):
 		#outfile.write(str(json_array))
 		dump(json_array, outfile, ensure_ascii=False, indent=2)
 
-submit(name, time, link)
+submit(name, time, link, moves)

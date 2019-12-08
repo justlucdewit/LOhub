@@ -1,9 +1,72 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "GasterStreams",
+    "time": "0:01.954",
+    "date": "2019-NOV-28",
+    "evidence": "https://youtu.be/xNfNulmu1EQ",
+    "comments": "14 moves"
+  },
+  {
+    "name": "nng",
+    "time": "0:02.176",
+    "date": "2019-JUL-2",
+    "evidence": "https://youtu.be/IBJgRwrbxNY",
+    "comments": "16 moves"
+  },
+  {
+    "name": "Eesti",
+    "time": "0:02.462",
+    "date": "2019-JUN-17",
+    "evidence": "https://streamable.com/pjajb",
+    "comments": "21 moves"
+  },
+  {
+    "name": "David jiang",
+    "time": "0:02.852",
+    "date": "2019-SEP-19",
+    "evidence": "/",
+    "comments": "22 moves"
+  },
+  {
+    "name": "creepycat",
+    "time": "0:03.311",
+    "date": "2019-SEP-18",
+    "evidence": "https://www.youtube.com/watch?v=CJ45f2Fxqh0&feature=youtu.be",
+    "comments": "21 moves"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:03.415",
+    "date": "2019-AUG-4",
+    "evidence": "https://youtu.be/5-EQ_FM62Is",
+    "comments": "26 moves"
+  },
+  {
+    "name": "ItzToad756",
+    "time": "0:03.633",
+    "date": "2019-DEC-8",
+    "evidence": "https://streamable.com/y4d1w",
+    "comments": "16 moves"
+  },
+  {
+    "name": "Sankey r3",
+    "time": "0:03.725",
+    "date": "2019-DEC-8",
+    "evidence": "https://www.youtube.com/watch?v=yJTYknBjJzs&feature=youtu.be",
+    "comments": "27 moves"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "0:04:170",
+    "date": "2019-DEC-8",
+    "evidence": "/",
+    "comments": "21 moves"
+  },
+  {
+    "name": "Syd4r",
+    "time": "0:04.184",
+    "date": "2019-DEC-8",
+    "evidence": "https://media.discordapp.net/attachments/435167993488736266/649738985228468224/video0.mp4",
+    "comments": "28 moves"
+  }
 ]
