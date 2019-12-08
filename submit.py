@@ -12,9 +12,11 @@ if len(argv) > 1 and argv[1] == "send":
 #submit name event time link [moves]
 name = input("name: ")
 time = input("time: ")
-moves = input("moves: ")
+date = input("date: ")
 link = input("evidence: ")
+moves = input("moves: ")
 evnt = input("event: ")
+
 if evnt == "3x3b5":
 	event = "3x3 blind ao5"
 if evnt == "4x4s":
@@ -33,12 +35,12 @@ months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC
 
 
 
-def submit(name, time, link, moves="/"):
+def submit(name, time, link, moves, date):
 	now = datetime.datetime.now()
 	submission = {'name':None, 'time':None, 'date':None, 'evidence':None, 'comments':None}
 	submission['name'] = name
 	submission['time'] = time
-	submission['date'] = f'{now.year}-{months[now.month-1]}-{now.day}'
+	submission['date'] = date#f'{now.year}-{months[now.month-1]}-{now.day}'
 	#submission['date'] = f'{input("year: ")}-{input("year: ")}-{input("day: ")}'
 	submission['evidence'] = link
 	submission['comments'] = f'{moves} moves'
@@ -52,4 +54,4 @@ def submit(name, time, link, moves="/"):
 		#outfile.write(str(json_array))
 		dump(json_array, outfile, ensure_ascii=False, indent=2)
 
-submit(name, time, link, moves)
+submit(name, time, link, moves, date)
