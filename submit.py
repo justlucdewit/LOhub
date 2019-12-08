@@ -1,17 +1,37 @@
 from json import *
 import datetime
+from sys import argv
+from os import system as s
 
-file = open('data/5x5.json')
+if len(argv) > 0:
+	s("git add .")
+	s("git commit -m \"added more submissions\"")
+	s("git push origin master")
+	exit()
+
+#submit name event time link [moves]
+name = input("name")
+time = input("time")
+moves = input("moves")
+link = input("evidence")
+
+if argv[2] == "3x3b5":
+	event = "3x3 blind ao5"
+
+file = open(f'data/{event}.json')
+
 json_array = load(file)
 months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"]
 
-def submit(name, time, link, moves):
+
+
+def submit(name, time, link, moves="/"):
 	now = datetime.datetime.now()
 	submission = {'name':None, 'time':None, 'date':None, 'evidence':None, 'comments':None}
 	submission['name'] = name
 	submission['time'] = time
-	submission['date'] = f'{now.year}-{months[now.month]}-{now.day}'
-	submission['date'] = f'{input("year: ")}-{input("year: ")}-{input("day: ")}'
+	submission['date'] = f'{now.year}-{months[now.month-1]}-{now.day}'
+	#submission['date'] = f'{input("year: ")}-{input("year: ")}-{input("day: ")}'
 	submission['evidence'] = link
 	if (link == "none"):
 		submission['evidence'] = '/'
@@ -21,9 +41,12 @@ def submit(name, time, link, moves):
 		submission['comments'] = "/"
 
 	json_array.append(submission)
-	with open('data/5x5.json', 'w', encoding='utf-8') as outfile:
+	print("----submission----")
+	print(f"name: {name}")
+	print(f"event: {event}")
+	print(f"time: {time}")
+	with open(f'data/{event}.json', 'w', encoding='utf-8') as outfile:
+		#outfile.write(str(json_array))
 		dump(json_array, outfile, ensure_ascii=False, indent=2)
 
-while True:
-	submit(input('name: '), input('time: '), input('link: '), input('moves: '))
-	print('-------------submitted-------------')
+submit(name, time, link)

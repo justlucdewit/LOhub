@@ -1,9 +1,30 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "GasterStreams",
+    "time": "3.118",
+    "date": "2019-DEC-8",
+    "evidence": "https://youtu.be/HQRkbBHSZ5g",
+    "comments": "/ moves"
+  },
+  {
+    "name": "sysustel",
+    "time": "6.408",
+    "date": "2019-DEC-8",
+    "evidence": "https://youtu.be/xxenw5cEA9c",
+    "comments": "/ moves"
+  },
+  {
+    "name": "Enoch_Gray",
+    "time": "6.637",
+    "date": "2019-DEC-8",
+    "evidence": "https://www.youtube.com/watch?v=EZa1JTgIH50",
+    "comments": "/ moves"
+  },
+  {
+    "name": "Max_Xiong",
+    "time": "9.131",
+    "date": "2019-DEC-8",
+    "evidence": "https://www.youtube.com/watch?v=EZa1JTgIH50",
+    "comments": "/ moves"
+  }
 ]
