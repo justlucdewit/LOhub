@@ -1,3 +1,37 @@
 [
-
+  {
+    "name": "Enoch Gray",
+    "time": "0:58.081",
+    "date": "2019-JAN-6",
+    "evidence": "https://www.youtube.com/watch?v=_2Loenu7S5Q",
+    "comments": "/"
+  },
+  {
+    "name": "Corey Sakowski",
+    "time": "2:45.812",
+    "date": "2018-DEC-25",
+    "evidence": "https://www.youtube.com/watch?v=Stj-1vEl13w",
+    "comments": "/"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "4:09.631",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "2:12.706 memo, 126 moves, 1.08 mps, 13.07 LP"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "4:52.551",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "1:43.258 memo, 156 moves, 0.82 mps, 11.662 lp MEMO: CBVYUSAKTW DXD FLPOQGRIJNMHF"
+  },
+  {
+    "name": "Milo Jacquet",
+    "time": "13:55.320",
+    "date": "2019-JAN-22",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/537490088397897748/lo5bldYES.png",
+    "comments": "[8:48.781] MQYNVPB CDJTKEC FRWHF GOLSUG XIX"
+  }
 ]
