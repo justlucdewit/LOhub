@@ -1,9 +1,65 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "syustel",
+    "time": "108",
+    "date": "2019-JUN-15",
+    "evidence": "https://youtu.be/mQGbL65OHXQ",
+    "comments": "/"
+  },
+  {
+    "name": "boomerangbro10",
+    "time": "126",
+    "date": "2019-JUN-12",
+    "evidence": "https://youtu.be/RmU_6JSidRo",
+    "comments": "/"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "125",
+    "date": "2019-AUG-7",
+    "evidence": "https://youtu.be/G6SvSwiEKlw",
+    "comments": "/"
+  },
+  {
+    "name": "Eesti",
+    "time": "131",
+    "date": "2019-JUN-15",
+    "evidence": "https://streamable.com/m6qzg",
+    "comments": "/"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "143",
+    "date": "2019-MAY-29",
+    "evidence": "https://www.twitch.tv/videos/431754974",
+    "comments": "done on stream yay"
+  },
+  {
+    "name": "Gareth Wa",
+    "time": "147",
+    "date": "2019-JAN-20",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536472328993898498/2019-01-20_17-07-37.mp4",
+    "comments": "/"
+  },
+  {
+    "name": "Skewbed",
+    "time": "158",
+    "date": "2019-JAN-4",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/530800420499619890/image0.png",
+    "comments": "/"
+  },
+  {
+    "name": "Dillon Finnegan",
+    "time": "199",
+    "date": "2019-APR-22",
+    "evidence": "https://imgur.com/a/Qz2xWba",
+    "comments": "/"
+  },
+  {
+    "name": "Wafflol",
+    "time": "295",
+    "date": "2019-JAN-21",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
