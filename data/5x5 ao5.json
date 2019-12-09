@@ -1,9 +1,212 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "7.957",
+    "date": "2019-AUG-30",
+    "evidence": "https://youtu.be/c-zqshV3WQg",
+    "comments": "7.279, 7.790, (7.018), 8.803, (10.277)"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "8.453",
+    "date": "2019-SEP-2",
+    "evidence": "https://www.youtube.com/watch?v=O9d3QzjnDsg&t=14",
+    "comments": "8.067, 8.501, (9.727), (7.724), 8.723"
+  },
+  {
+    "name": "creepycat18",
+    "time": "8.482",
+    "date": "2019-NOV-29",
+    "evidence": "https://www.youtube.com/watch?v=R1W4-MoJqUI&feature=youtu.be",
+    "comments": "8.305, (11.427), 8.521, 8.620, (8.272)"
+  },
+  {
+    "name": "ZMangames",
+    "time": "9.214",
+    "date": "2019-AUG-4",
+    "evidence": "https://streamable.com/3n9mf",
+    "comments": "8.692, (7.452), 9.975, 8.976, (16.167)"
+  },
+  {
+    "name": "David Jiang",
+    "time": "10.378",
+    "date": "2019-JAN-20",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/531545798610255882/video.mov",
+    "comments": "(11.370), (9.262), 10.857, 9.432, 10.816"
+  },
+  {
+    "name": "Dawid Wojcik",
+    "time": "11.137",
+    "date": "2019-JAN-21",
+    "evidence": "https://youtu.be/fpePcYAp5-k",
+    "comments": "11.381, (10.664), (12.652), 11.100, 10.930"
+  },
+  {
+    "name": "Sankey r3",
+    "time": "11.864",
+    "date": "2019-FEB-4",
+    "evidence": "https://youtu.be/N2D4HG5Y-vc",
+    "comments": "11.043, (10.802), 11.931, 12.618, (12.760)"
+  },
+  {
+    "name": "epicface999",
+    "time": "12.840",
+    "date": "2019-JUL-24",
+    "evidence": "https://youtu.be/alhOGIhBHTA",
+    "comments": " 13.616, 12.402, 12.502, (11.701), (16.067)"
+  },
+  {
+    "name": "ItzToad576",
+    "time": "13.394",
+    "date": "2019-FEB-6",
+    "evidence": "https://streamable.com/qd1mq",
+    "comments": "(video no longer exists)"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "14.095",
+    "date": "2019-JAN-21",
+    "evidence": "https://www.youtube.com/watch?v=975iDrnLIqM",
+    "comments": "(12.956), (16.348), 12.957, 14.530, 14.797"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "15.110",
+    "date": "2018-AUG-12",
+    "evidence": "/",
+    "comments": "(14.7), 14.8, 15.2, 15.2, (DNF)"
+  },
+  {
+    "name": "Teri",
+    "time": "15.191",
+    "date": "2019-JAN-21",
+    "evidence": "https://youtu.be/2DBpPYhu6KY",
+    "comments": "15.375, 15.073, (15.057), (15.375), 15.125"
+  },
+  {
+    "name": "Jake Geren",
+    "time": "17.824",
+    "date": "2018-SEP-19",
+    "evidence": "/",
+    "comments": "(19.958), 19.824, (16.032), 17.265, 16.608, mouse"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "17.993",
+    "date": "2018-AUG-19",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Dy Ray",
+    "time": "19.552",
+    "date": "2018-DEC-21",
+    "evidence": "/",
+    "comments": "21.802, (17.223), 17.317, 19.583, (22.003)"
+  },
+  {
+    "name": "Tatsu",
+    "time": "19.750",
+    "date": "2019-JAN-26",
+    "evidence": "https://youtu.be/CLfdmP1769M",
+    "comments": "18.254, 20.437, 20.558, (24.667), (15.398)"
+  },
+  {
+    "name": "Chris Yen",
+    "time": "20.920",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Corey Sakowski",
+    "time": "21.919",
+    "date": "2018-DEC-21",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Kavin Tangtartharakul",
+    "time": "22.117",
+    "date": "2018-JUL-31",
+    "evidence": "/",
+    "comments": "(18.929), (33.843), 23.328, 19.693, 23.329"
+  },
+  {
+    "name": "LiamXC",
+    "time": "23.454",
+    "date": "2019-JAN-19",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536327585857011712/image0.jpg",
+    "comments": "24.783, (26.338), 24.034, (20.605), 21.546"
+  },
+  {
+    "name": "Ethan Dennis",
+    "time": "23.999",
+    "date": "2018-SEP-11",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Jeremy Chua",
+    "time": "27.953",
+    "date": "2018-DEC-20",
+    "evidence": "https://www.youtube.com/watch?v=qApU251aBPU",
+    "comments": "mouse, (44.720) 32.421 26.715 24.723 (21.959)"
+  },
+  {
+    "name": "Aedan Bryant",
+    "time": "29.523",
+    "date": "2018-DEC-20",
+    "evidence": "/",
+    "comments": "31.711, 25.488, (24.990), (36.026), 31.369"
+  },
+  {
+    "name": "PercyCho",
+    "time": "29.573",
+    "date": "2019-JAN-27",
+    "evidence": "https://media.discordapp.net/attachments/493496902789365781/539205591353262111/loopover_Ao5_0-29-1208.PNG",
+    "comments": "(24.612), 31.282, 30.303, (32.274), 27.133"
+  },
+  {
+    "name": "Carter Kucala",
+    "time": "29.664",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Anderium",
+    "time": "30.863",
+    "date": "2018-DEC-21",
+    "evidence": "https://drive.google.com/open?id=1BjSx5ScJRBb5YSr78SSMstqgmV3Z25Hm",
+    "comments": "(27.792), 28.687, 32.974, (37.266), 30.928"
+  },
+  {
+    "name": "Dillon Finnegan",
+    "time": "30.986",
+    "date": "2019-APR-22",
+    "evidence": "https://imgur.com/a/dz9ONjq",
+    "comments": "(32.701), 30.127, 31.552, (29.567), 31.279"
+  },
+  {
+    "name": "Matthew DW",
+    "time": "34.374",
+    "date": "2018-JUL-28",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "IndoHolyCubing",
+    "time": "43.805",
+    "date": "2019-JAN-19",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536386964472201216/okuja.PNG",
+    "comments": "(57.132), 42.834, 45.070, 43.513, (33.672)"
+  },
+  {
+    "name": "nooter692",
+    "time": "45.108",
+    "date": "2019-JAN-3",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/530594895035891732/5x5-BO5-45.PNG",
+    "comments": "/"
+  }
 ]
