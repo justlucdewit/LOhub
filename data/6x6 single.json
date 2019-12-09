@@ -1,9 +1,226 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "0:12.006",
+    "date": "2019-SEP-21",
+    "evidence": "https://youtu.be/OegZTKD1-Mk",
+    "comments": "104 moves, 8.58 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:13.616",
+    "date": "2019-SEP-15",
+    "evidence": "https://youtu.be/VSdzwgEdK-E",
+    "comments": "123 moves, 8.96 mps"
+  },
+  {
+    "name": "creepycat18",
+    "time": "0:14.850",
+    "date": "2019-DEC-2",
+    "evidence": "https://youtu.be/jFLPFJS0goc",
+    "comments": "131 moves, 8.75 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "0:15.182",
+    "date": "2019-AUG-16",
+    "evidence": "https://youtu.be/nwgAaN_vKKY",
+    "comments": "108 moves, 7.05 mps"
+  },
+  {
+    "name": "Dawid Wojcik",
+    "time": "0:16.130",
+    "date": "2019-FEB-8",
+    "evidence": "https://youtu.be/Gu0gNa_rGSs",
+    "comments": "107 moves, 6.57 mps"
+  },
+  {
+    "name": "ZMangames",
+    "time": "0:16.340",
+    "date": "2019-JAN-27",
+    "evidence": "https://streamable.com/q6g5h",
+    "comments": "110 moves, 6.67 mps"
+  },
+  {
+    "name": "whatshisbucket",
+    "time": "0:21.785",
+    "date": "2019-SEP-26",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/626944021628977207/video0.mp4",
+    "comments": "114 moves, 5.19 mps"
+  },
+  {
+    "name": "David Jiang",
+    "time": "0:22.239",
+    "date": "2018-DEC-20",
+    "evidence": "/",
+    "comments": "116 moves, 5.17 mps"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "0:23.900",
+    "date": "2019-JAN-21",
+    "evidence": "https://www.youtube.com/watch?v=Ek4lvIXmhgY",
+    "comments": "162 moves, 6.74 mps"
+  },
+  {
+    "name": "GasterStreams",
+    "time": "0:24.739",
+    "date": "2019-OCT-6",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/630458285849575434/Screenshot_20191007-013534_Chrome.jpg",
+    "comments": "116 moves, 4.65 mps"
+  },
+  {
+    "name": "Syd4r",
+    "time": "0:25.474",
+    "date": "2019-DEC-3",
+    "evidence": "https://media.discordapp.net/attachments/435167993488736266/651473114894565386/image0.jpg",
+    "comments": "121 moves, 4.71 mps"
+  },
+  {
+    "name": "ItzToad756",
+    "time": "0:25.964",
+    "date": "2019-JAN-27",
+    "evidence": "https://streamable.com/uh76y",
+    "comments": "127 moves, 4.85 mps"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "0:26.462",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "95 moves, 3.59 mps, 1.20 LP"
+  },
+  {
+    "name": "AforAmpere",
+    "time": "0:28.203",
+    "date": "2019-FEB-3",
+    "evidence": "https://streamable.com/kw0mh",
+    "comments": "(video no longer exists)"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "0:29.005",
+    "date": "2018-AUG-9",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Jake Geren",
+    "time": "0:31.423",
+    "date": "2018-SEP-4",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "KailoArriba",
+    "time": "0:31.429",
+    "date": "2019-JAN-29",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/539775167656624129/sub32.mp4",
+    "comments": "142 moves, 4.49 mps"
+  },
+  {
+    "name": "epicface999",
+    "time": "0:31.930",
+    "date": "2019-APR-28",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/572096984601591848/image1.png",
+    "comments": "149 moves, 4.64 mps"
+  },
+  {
+    "name": "Vince7778",
+    "time": "0:37.984",
+    "date": "2019-FEB-1",
+    "evidence": "https://www.twitch.tv/videos/373729826",
+    "comments": "132 moves, 3.45 mps"
+  },
+  {
+    "name": "Kavin Tangtartharakul",
+    "time": "0:39.887",
+    "date": "2018-AUG-2",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Epic",
+    "time": "0:53.007",
+    "date": "2019-MAR-3",
+    "evidence": "https://imgur.com/a/53634T4",
+    "comments": "139 moves, 2.60 mps"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "0:53.048",
+    "date": "2019-JAN-28",
+    "evidence": "http://twitch.com/imperialwaffle521",
+    "comments": "(links to account)"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "0:55.039",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Just some random dude",
+    "time": "0:55.229",
+    "date": "2019-JAN-20",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536586298505297940/image0.png",
+    "comments": "177 moves, 3.19 mps"
+  },
+  {
+    "name": "Dillon Finnegan",
+    "time": "1:11.874",
+    "date": "2019-APR-15",
+    "evidence": "https://imgur.com/a/JFvFY4A",
+    "comments": "145 moves, 2.00 mps"
+  },
+  {
+    "name": "nooter692",
+    "time": "1:25.037",
+    "date": "2019-JAN-3",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/530593065291743247/6x6-1.25.mp4",
+    "comments": "/"
+  },
+  {
+    "name": "IndoHolyCubing",
+    "time": "1:31.734",
+    "date": "2019-JAN-16",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/535067174684065803/syemaok.PNG",
+    "comments": "191 moves, 1.59 mps"
+  },
+  {
+    "name": "Zsolt Balla",
+    "time": "1:38.100",
+    "date": "2018-DEC-20",
+    "evidence": "https://youtu.be/4E-2NbUtILk",
+    "comments": "137 moves, 1.39 mps"
+  },
+  {
+    "name": "Ray Rendondo",
+    "time": "1:43.686",
+    "date": "2019-JAN-17",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/535600318843453465/Screenshot_20190116-121144.png",
+    "comments": "/"
+  },
+  {
+    "name": "Michael S.",
+    "time": "2:21.502",
+    "date": "2019-JAN-20",
+    "evidence": "https://gyazo.com/8746863fcdc24ee430c4c4de29499782",
+    "comments": "166 moves, 1.17 mps"
+  },
+  {
+    "name": "C Master 10",
+    "time": "3:04.005",
+    "date": "2019-JAN-16",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/535103792291643403/JPEG_20190116_153104.jpg",
+    "comments": "145 moves, 0.78 mps"
+  },
+  {
+    "name": "JosephcatZ",
+    "time": "3:38.214",
+    "date": "2019-JUN-17",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/590345920437157917/unknown.png",
+    "comments": "223 moves, 1.02 mps"
+  }
 ]
