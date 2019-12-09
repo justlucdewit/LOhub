@@ -63,6 +63,13 @@
 			padding: 5px;
 		}
 
+		#loading{
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 10%;
+		}
+
 	</style>
 </head>
 <body>
@@ -70,12 +77,12 @@
 		<select name="eventSelect" id="dropdown" onchange="changeEvent()">
 			<option value="3x3 blind ao5">3x3 blind ao5</option>
 
-			<option value="4x4 single">4x4 single</option>
+			<option value="4x4 single" selected>4x4 single</option>
 			<option value="4x4 ao5">4x4 ao5</option>
 			<option value="4x4 FMC">4x4 FMC</option>
 			<option value="4x4 blind">4x4 blind</option>
 
-			<option value="5x5 single" selected>5x5 single</option>
+			<option value="5x5 single" >5x5 single</option>
 			<option value="5x5 ao5">5x5 ao5</option>
 			<option value="5x5 FM">5x5 FMC</option>
 			<option value="5x5 blind">5x5 blind</option>
@@ -106,10 +113,10 @@
 			<option value="14x14 single">14x14 single</option>
 			<option value="14x14 ao5">14x14 ao5</option>
 
-			<option value="15x15 single" selected>15x15 single</option>
+			<option value="15x15 single">15x15 single</option>
 			<option value="15x15 mo3">15x15 mo3</option>
 
-			<option value="20x20 single" selected>20x20 single</option>
+			<option value="20x20 single">20x20 single</option>
 			<option value="20x20 ao3">20x20 mo3</option>
 
 			<option value="hexaloop 3x3 single">hexaloop 3x3 single</option>
@@ -122,12 +129,13 @@
 		<tr id="header">
 			<th>Rank</th>
 			<th>Name</th>
-			<th>Time</th>
+			<th id="headertime">Time</th>
 			<th>Date</th>
 			<th>Evidence</th>
 			<th>Comments</th>
 		</tr>
 	</table>
+	<img id="loading" src="loading.gif">
 
 	<script>changeEvent();</script>
 </body>

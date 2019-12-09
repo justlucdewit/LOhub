@@ -4,13 +4,22 @@ function load(type="5x5 single"){
 		const json = data;
 		let rank = 1
 		for (const elem in json){
-			build(json[elem], rank);
+			build(json[elem], rank, type);
 			rank+=1
 		}
+		document.getElementById("loading").remove();
 	});
 }
 
-function build(obj, rank){
+function isFMC(catagory){
+	return catagory.endsWith("FMC");
+}
+
+function build(obj, rank, catagory){
+	if (isFMC(catagory)){
+		document.getElementById("headertime").innerText="Moves";
+	}
+
 	const table = document.getElementById("table");
 	const row = table.insertRow(-1);
 	
@@ -25,7 +34,10 @@ function build(obj, rank){
 	namecell.innerHTML = obj.name;
 	timecell.innerHTML = obj.time;
 	datecell.innerHTML = obj.date;
-	evidencecell.innerHTML = "<a href="+obj.evidence+">Link</a>"
+	if (obj.evidence != "/"){
+		evidencecell.innerHTML = "<a href="+obj.evidence+">Link</a>"
+	}
+	
 	// const linkText = document.createTextNode("Link");
 	// const a = document.createElement('a').appendChild(linkText);
 	
@@ -33,10 +45,8 @@ function build(obj, rank){
 	// a.href = obj.evidence;
 	// evidencecell.appendChild(a);
 	console.log(obj.comments)
-	if (obj.comments != "/ moves"){
+	if (obj.comments != "/"){
 		commentcell.innerHTML = obj.comments;
-	}else{
-		commentcell.innerHTML = "/"
 	}
 }
 

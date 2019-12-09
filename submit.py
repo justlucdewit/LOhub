@@ -27,6 +27,15 @@ if evnt == "4x4f":
 	event = "4x4 FMC"
 if evnt == "4x4b":
 	event = "4x4 blind"
+if evnt == "5x55":
+	event = "5x5 ao5"
+if evnt == "5x55":
+	event = "5x5 ao5"
+if evnt == "5x5b":
+	event = "5x5 ao5"
+if evnt == "5x5f":
+	event = "5x5 FMC"
+if evnt == "5x5 single":
 
 file = open(f'data/{event}.json')
 
