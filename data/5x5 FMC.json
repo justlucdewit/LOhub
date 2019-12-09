@@ -1,9 +1,163 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "ZMangames",
+    "time": "28",
+    "date": "2019-JUL-27",
+    "evidence": "https://streamable.com/23j8s",
+    "comments": "26 to 3cycle, insertion cancelled 2 moves"
+  },
+  {
+    "name": "Eesti",
+    "time": "29",
+    "date": "2019-JUL-27",
+    "evidence": "https://streamable.com/nrgdy",
+    "comments": "Couldve been 28, had no undos as I was in a speedsolving session"
+  },
+  {
+    "name": "creepycat18",
+    "time": "32",
+    "date": "2019-NOV-23",
+    "evidence": "https://youtu.be/1HoWUzRNTxw",
+    "comments": "/"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "33",
+    "date": "2019-JUL-31",
+    "evidence": "https://www.youtube.com/watch?v=wf5pEUSWcmk",
+    "comments": "/"
+  },
+  {
+    "name": "syustel",
+    "time": "34",
+    "date": "2019-JUL-18",
+    "evidence": "https://youtu.be/EwmGQ8J0bsk",
+    "comments": "/"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "37",
+    "date": "2018-AUG-15",
+    "evidence": "https://www.youtube.com/watch?v=55XleTc8awY",
+    "comments": "(previous PB was 46. First FMC solve in v1.2, 11:52.299, 44.366 lp)"
+  },
+  {
+    "name": "GasterStreams",
+    "time": "34",
+    "date": "2019-OCT-3",
+    "evidence": "https://youtu.be/dO-l4MP4lvs",
+    "comments": "/"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "40",
+    "date": "2018-AUG-6",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "44",
+    "date": "2018-AUG-10",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Kavin Tangtartharakul",
+    "time": "45",
+    "date": "2018-AUG-2",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "AforAmpere",
+    "time": "47",
+    "date": "2019-JUN-12",
+    "evidence": "https://streamable.com/dfd76",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "David Jiang",
+    "time": "48",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Gabriel Turenne",
+    "time": "48",
+    "date": "2018-DEC-21",
+    "evidence": "https://imgur.com/TnBc8pA",
+    "comments": "/"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "48",
+    "date": "2019-JAN-15",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/534737101762199552/Screenshot_2019-01-15_at_09.13.42.png",
+    "comments": "/"
+  },
+  {
+    "name": "LiamXC",
+    "time": "48",
+    "date": "2019-JAN-21",
+    "evidence": "https://streamable.com/rr3f3",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "Carter Kucala",
+    "time": "50",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "wuchta",
+    "time": "51",
+    "date": "2019-JAN-14",
+    "evidence": "https://drive.google.com/file/d/1kV3f5pcgT9GVbEF_PAvTIlWtLDkFNHbI/view",
+    "comments": "/"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "57",
+    "date": "2018-AUG-1",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "PercyCho",
+    "time": "57",
+    "date": "2019-JAN-23",
+    "evidence": "https://media.discordapp.net/attachments/418520901487951892/537744456523448340/Screenshot_2019-01-23_at_4.22.18_PM.png",
+    "comments": "/"
+  },
+  {
+    "name": "Jake Geren",
+    "time": "62",
+    "date": "2018-AUG-12",
+    "evidence": "/",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "Chris Yen",
+    "time": "66",
+    "date": "2018-AUG-12",
+    "evidence": "/",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "IndoHolyCubing",
+    "time": "66",
+    "date": "2019-JAN-19",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536386964472201216/okuja.PNG",
+    "comments": "/"
+  },
+  {
+    "name": "Scootch",
+    "time": "69",
+    "date": "2019-JAN-14",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/534472315178713098/Screen_Shot_2019-01-14_at_9.41.47_PM.png",
+    "comments": "/"
+  }
 ]
