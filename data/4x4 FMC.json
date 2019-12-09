@@ -1,9 +1,128 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "syustel",
+    "time": "11",
+    "date": "2019-Jul-4",
+    "evidence": "https://www.youtube.com/watch?v=KumHAxVKswo&feature=youtu.be",
+    "comments": "/"
+  },
+  {
+    "name": "boomerangbro10",
+    "time": "12",
+    "date": "2019-Jun-7",
+    "evidence": "https://www.youtube.com/watch?v=mTjL2TAqnoA",
+    "comments": "/"
+  },
+  {
+    "name": "soxfox42",
+    "time": "13",
+    "date": "2019-Jan-9",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/532410982891257877/howeven.mov",
+    "comments": "/"
+  },
+  {
+    "name": "LevicusX",
+    "time": "13",
+    "date": "2019-Jun-17",
+    "evidence": "https://www.youtube.com/watch?v=Nf7r0HE928o&t=11m20s",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "GasterStreams",
+    "time": "13",
+    "date": "2019-Jul-2",
+    "evidence": "https://www.youtube.com/watch?v=VsGjCt4czaM&feature=youtu.be",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "Eesti",
+    "time": "14",
+    "date": "2019-Jun-2",
+    "evidence": "https://cdn.discordapp.com/attachments/573676330042916864/584727860024049705/video.mov",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "David Jiang",
+    "time": "15",
+    "date": "2018-Aug-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "16",
+    "date": "2019-Feb-24",
+    "evidence": "https://www.youtube.com/watch?v=iDTy0llibpI",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "Nabbissimux",
+    "time": "18",
+    "date": "2019-Jan-15",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/534853063396163589/4x4_loopover_pb.mp4",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "Syd4r",
+    "time": "20",
+    "date": "2019-Nov-13",
+    "evidence": "https://media.discordapp.net/attachments/435167993488736266/644158630404292618/image0.png",
+    "comments": "/"
+  },
+  {
+    "name": "creepycat18",
+    "time": "21",
+    "date": "2019-Jul-27",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536769440977518603/4x4fm.mp4",
+    "comments": "/"
+  },
+  {
+    "name": "KailoArriba",
+    "time": "24",
+    "date": "2019-Jan-20",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536769440977518603/4x4fm.mp4",
+    "comments": "/"
+  },
+  {
+    "name": "Michael S.",
+    "time": "27",
+    "date": "2019-Jan-20",
+    "evidence": "https://i.gyazo.com/thumb/1200/dc7371b29f0a7b18be7696beee398d09-png.jpg",
+    "comments": "/"
+  },
+  {
+    "name": "Elliott Perkins",
+    "time": "28",
+    "date": "2019-Mar-3",
+    "evidence": "https://i.redd.it/ir0o0l2uz0k21.jpg",
+    "comments": "/"
+  },
+  {
+    "name": "luc de wit",
+    "time": "28",
+    "date": "2019-Jun-23",
+    "evidence": "https://media.discordapp.net/attachments/526598754791587852/592420776418738187/unknown.png",
+    "comments": "/"
+  },
+  {
+    "name": "JosephcatZ",
+    "time": "31",
+    "date": "2019-Jun-17",
+    "evidence": "https://cdn.discordapp.com/attachments/526598754791587852/590362433655406592/image0.jpg",
+    "comments": "technically a speedsolve"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "32",
+    "date": "2019-Jan-4",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/530903640299536414/loopover4x4FMC1.PNG",
+    "comments": "did it so i can be second place"
+  },
+  {
+    "name": "Elijah Simpson",
+    "time": "44",
+    "date": "2019-Mar-28",
+    "evidence": "https://cdn.discordapp.com/attachments/527212104285945891/560958824673181697/unknown.png",
+    "comments": "/"
+  }
 ]
