@@ -1,9 +1,149 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "creepycat18",
+    "time": "0:04.118",
+    "date": "2019-NOV-30",
+    "evidence": "https://www.youtube.com/watch?v=sgbpjLnvcq8&feature=youtu.be",
+    "comments": "4.018, (7.353), (3.643), 4.113, 4.233"
+  },
+  {
+    "name": "nng",
+    "time": "0:04.128",
+    "date": "2019-JUN-29",
+    "evidence": "https://www.youtube.com/watch?v=E6yiQlSaZHc&feature=youtu.be",
+    "comments": "3.590, (3.270), 4.174, (5.516), 4.621"
+  },
+  {
+    "name": "GasterStreams",
+    "time": "0:04.517",
+    "date": "2019-Sep-29",
+    "evidence": "https://www.youtube.com/watch?v=bEp5KwuB9ao&feature=youtu.be",
+    "comments": "(3.242), 4.580, 4.407, (12.106), 4.564"
+  },
+  {
+    "name": "David Jiang",
+    "time": "0:04.543",
+    "date": "2019-Jun-29",
+    "evidence": "https://drive.google.com/file/d/1Uu0QWAFtAOk2NWx9vrkdeeUqaKifC3qa/view",
+    "comments": "(3.959), 4.118, (5.826), 4.866, 4.644"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:05.385",
+    "date": "2019-Aug-7",
+    "evidence": "https://www.youtube.com/watch?v=oYIJ0vvmGAQ&t=50",
+    "comments": "5.411, (6.646), (4.608), 5.018, 5.727"
+  },
+  {
+    "name": "Sankey r3",
+    "time": "0:05.423",
+    "date": "2019-Feb-3",
+    "evidence": "https://www.youtube.com/watch?v=RmnYS3Rrcfo&feature=youtu.be",
+    "comments": "4.945, (7.738), (4.368), 6.498, 4.828"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "0:06.853",
+    "date": "2018-Dec-19",
+    "evidence": "/",
+    "comments": "6.645, (9.011), (4.321), 7.922, 5.921"
+  },
+  {
+    "name": "Geogolf",
+    "time": "0:06.952",
+    "date": "2019-Feb-20",
+    "evidence": "https://www.youtube.com/watch?v=_0_5eGUd6p8&feature=youtu.be",
+    "comments": "7.454, 6.814, 6.587, (5.333), (8.054)"
+  },
+  {
+    "name": "Eesti",
+    "time": "0:07.995",
+    "date": "2019-Apr-26",
+    "evidence": "https://drive.google.com/file/d/1HoVUn7UB9ifyoRjzScGBgGgGopLRVtiC/view",
+    "comments": "(9.987), (7.118), 7.751, 8.718, 7.517"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "0:08.181",
+    "date": "2018-Aug-20",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "epicface999",
+    "time": "0:09.045",
+    "date": "2019-Apr-26",
+    "evidence": "https://www.youtube.com/watch?v=moidPB9g4Tc",
+    "comments": "(7.387), 8.681, (9.833), 8.720,  9.734"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "0:09.281",
+    "date": "2018-Aug-6",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Tatsu",
+    "time": "0:10.933",
+    "date": "2019-Jan-14",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "BenjiCubes",
+    "time": "0:11.431",
+    "date": "2019-Jan-20",
+    "evidence": "https://prnt.sc/m9jdrx",
+    "comments": "(19.390), 14.504, 11.972, (7.800), 7.818"
+  },
+  {
+    "name": "Kavin Tangtartharakul",
+    "time": "0:11.903",
+    "date": "2018-Aug-2",
+    "evidence": "/",
+    "comments": "(9.359), (13.300), 12.155, 12.847, 10.706"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "0:12.190",
+    "date": "2018-Aug-3",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Carter Kucala",
+    "time": "0:12.859",
+    "date": "2018-Aug-15",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "HolyChaos45",
+    "time": "0:13.908",
+    "date": "2019-Jun-4",
+    "evidence": "https://imgur.com/a/37hxvwO",
+    "comments": "/"
+  },
+  {
+    "name": "anderium",
+    "time": "0:17.775",
+    "date": "2019-Jan-16",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/535180168126529539/4x4_single_ao3_ao12_and_ao50.png",
+    "comments": "/"
+  },
+  {
+    "name": "nooter692",
+    "time": "0:26.216",
+    "date": "2019-Jan-03",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/530592215798644747/4x4-BO5-26.PNG",
+    "comments": "/"
+  },
+  {
+    "name": "JosephcatZ",
+    "time": "1:11.578",
+    "date": "2019-Jun-17",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/590349416226095114/unknown.png",
+    "comments": "(2:02.174), 1:00.323, (58.477), 1:18.261, 1:16.150"
+  }
 ]

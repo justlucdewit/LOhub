@@ -14,7 +14,7 @@ name = input("name: ")
 time = input("time: ")
 date = input("date: ")
 link = input("evidence: ")
-moves = input("moves: ")
+moves = input("comments: ")
 evnt = input("event: ")
 
 if evnt == "3x3b5":
@@ -43,7 +43,7 @@ def submit(name, time, link, moves, date):
 	submission['date'] = date#f'{now.year}-{months[now.month-1]}-{now.day}'
 	#submission['date'] = f'{input("year: ")}-{input("year: ")}-{input("day: ")}'
 	submission['evidence'] = link
-	submission['comments'] = f'{moves} moves'
+	submission['comments'] = f'{moves}'
 
 	json_array.append(submission)
 	print("----submission----")
