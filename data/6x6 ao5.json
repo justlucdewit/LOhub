@@ -1,9 +1,86 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "0:14.765",
+    "date": "2019-SEP-22",
+    "evidence": "https://youtu.be/8-dITc2-sFY",
+    "comments": "14.845, (12.669), 15.203, (DNF), 14.248"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:16.831",
+    "date": "2019-AUG-26",
+    "evidence": "https://www.youtube.com/watch?v=Anb2GXvyFB4&t=1m9s",
+    "comments": "15.540, 18.158, (14.808), (18.167), 16.796"
+  },
+  {
+    "name": "Eesti",
+    "time": "0:19.746",
+    "date": "2019-AUG-21",
+    "evidence": "https://youtu.be/NRW8DERS_Bc",
+    "comments": "(19.190), 19.264, 20.040, (21.468), 19.935"
+  },
+  {
+    "name": "ZMangames",
+    "time": "0:19.871",
+    "date": "2019-JAN-27",
+    "evidence": "https://streamable.com/0jr1b",
+    "comments": "18.565, 18.708, (17.990), (22.923), 22.339"
+  },
+  {
+    "name": "Dawid Wojcik",
+    "time": "0:23.230",
+    "date": "2019-JAN-22",
+    "evidence": "https://streamable.com/6gxe1",
+    "comments": "23.496, 23.332, (22.796), (24.589), 22.863"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "0:29.536",
+    "date": "2018-AUG-10",
+    "evidence": "/",
+    "comments": "29.807, (26.864), (33.535), 27.952, 30.849"
+  },
+  {
+    "name": "David Jiang",
+    "time": "0:31.663",
+    "date": "2018-AUG-20",
+    "evidence": "/",
+    "comments": "(23.566), 28.386, 37.538, 29.066, (46.768)"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "0:31.733",
+    "date": "2018-AUG-9",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "0:33.660",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Kavin Tangtartharakul",
+    "time": "0:43.430",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "1:00.586",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "IndoholyCubing",
+    "time": "2:16.890",
+    "date": "2019-JAN-15",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/535067174684065803/syemaok.PNG",
+    "comments": "(1:31.734), (2:55.962), 2:49.493, 2:01.475, 1:59.701"
+  }
 ]
