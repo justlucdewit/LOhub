@@ -65,6 +65,13 @@ if evnt == "6x6f":
 if evnt == "6x6s":
 	event = "6x6 single"
 
+if evnt == "7x75":
+	event = "7x7 ao5"
+if evnt == "7x7f":
+	event = "7x7 FMC"
+if evnt == "7x7s":
+	event = "7x7 single"
+
 print(f"pusing to {event}")
 
 while True:

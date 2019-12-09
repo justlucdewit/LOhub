@@ -1,9 +1,44 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "ZMangames",
+    "time": "68",
+    "date": "2019-JUN-25",
+    "evidence": "https://streamable.com/eoc64",
+    "comments": "/"
+  },
+  {
+    "name": "Eesti",
+    "time": "78",
+    "date": "2019-JUL-1",
+    "evidence": "https://streamable.com/8kwod",
+    "comments": "/"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "78",
+    "date": "2019-AUG-1",
+    "evidence": "https://www.youtube.com/watch?v=BJXS7aRZd-I",
+    "comments": "/"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "97",
+    "date": "2019-JAN-21",
+    "evidence": "https://www.twitch.tv/imperialwaffle521",
+    "comments": "/"
+  },
+  {
+    "name": "Gareth Ma",
+    "time": "113",
+    "date": "2019-JAN-15",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/534863045411864577/2019-01-16_06-33-33.mp4",
+    "comments": "/"
+  },
+  {
+    "name": "Nabbissimux",
+    "time": "118",
+    "date": "2019-JAN-15",
+    "evidence": "https://www.youtube.com/watch?v=NDPalJq0yr0",
+    "comments": "/"
+  }
 ]
