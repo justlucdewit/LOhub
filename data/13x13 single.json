@@ -1,2 +1,58 @@
 [
+  {
+    "name": "nng",
+    "time": "2:28.300",
+    "date": "2019-AUG-21",
+    "evidence": "https://youtu.be/K8Dokd2mDb0",
+    "comments": "985 moves, 6.64 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "3:14.330",
+    "date": "2019-AUG-14",
+    "evidence": "https://youtu.be/Ycp78Xx3SxQ",
+    "comments": "1243 moves, 6.39 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "3:58.505",
+    "date": "2019-SEP-2",
+    "evidence": "https://youtu.be/oNegrqaVDek",
+    "comments": "1411 moves, 5.91 mps"
+  },
+  {
+    "name": "Tyler Hempe",
+    "time": "6:07.810",
+    "date": "2018-DEC-22",
+    "evidence": "https://youtu.be/CWpAmCpwNXw",
+    "comments": "1520 moves, 4.13 mps"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "7:10.416",
+    "date": "2018-AUG-17",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Chris Pedersen",
+    "time": "7:50.869",
+    "date": "2018-DEC-20",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "8:13.680",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "13:23.712",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
