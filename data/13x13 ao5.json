@@ -1,2 +1,23 @@
 [
+  {
+    "name": "Eesti",
+    "time": "6:06.158",
+    "date": "2019-JUL-2",
+    "evidence": "https://drive.google.com/file/d/1WR-so58o9i0KCk_H7Yv_JAqm9HxNeNsL/view?usp=drivesdk",
+    "comments": "6:04.700, (5:54.382), (6:19.101), 6:09.868, 6:03.906"
+  },
+  {
+    "name": "Tyler Hempe",
+    "time": "6:44.850",
+    "date": "2018-DEC-22",
+    "evidence": "https://youtu.be/CWpAmCpwNXw",
+    "comments": "6:28.538, 6:42.724, 7:03.288, (7:30.200), (6:07.810)"
+  },
+  {
+    "name": "Chris Pedersen",
+    "time": "31:24.843",
+    "date": "2018-DEC-19",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
