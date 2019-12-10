@@ -85,6 +85,36 @@ if evnt == "10x105":
 if evnt == "10x10s":
 	event = "10x10 single"
 
+if evnt == "11x115":
+	event = "11x11 ao5"
+if evnt == "11x11s":
+	event = "11x11 single"
+
+if evnt == "12x125":
+	event = "12x12 ao5"
+if evnt == "12x12s":
+	event = "12x12 single"
+
+if evnt == "13x135":
+	event = "13x13 ao5"
+if evnt == "13x13s":
+	event = "13x13 single"
+
+if evnt == "14x145":
+	event = "14x14 ao5"
+if evnt == "14x14s":
+	event = "14x14 single"
+
+if evnt == "15x153":
+	event = "15x15 mo3"
+if evnt == "15x15s":
+	event = "15x15 single"
+
+if evnt == "20x203":
+	event = "20x20 mo3"
+if evnt == "20x20s":
+	event = "20x20 single"
+
 print(f"pusing to {event}")
 
 while True:

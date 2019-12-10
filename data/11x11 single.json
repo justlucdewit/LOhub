@@ -1,9 +1,72 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "1:23.681",
+    "date": "2019-NOV-18",
+    "evidence": "https://youtu.be/9p0d5KdzawA",
+    "comments": "646 moves, 7.71 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "2:01.671",
+    "date": "2019-OCT-9",
+    "evidence": "https://streamable.com/qv4ze",
+    "comments": "827 moves, 6.79 mps"
+  },
+  {
+    "name": "whatshisbucket",
+    "time": "3:19.227",
+    "date": "2019-SEP-27",
+    "evidence": "https://www.youtube.com/watch?v=BwyhJs1cztQ",
+    "comments": "823 moves, 4.13 mps"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "3:41.840",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "3:49.552",
+    "date": "2018-AUG-7",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Quary1805",
+    "time": "6:08.640",
+    "date": "2019-APR-23",
+    "evidence": "http://images.quary.cz/loopover/11-1-pb-1.png",
+    "comments": "982 moves, 2.66 mps"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "6:58.820",
+    "date": "2018-AUG-2",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Kailo Arriba",
+    "time": "7:07.175",
+    "date": "2019-JAN-19",
+    "evidence": "https://www.youtube.com/watch?v=NlIqd9IG0nc",
+    "comments": "1036 moves, 2.42 mps"
+  },
+  {
+    "name": "Carter Kucala",
+    "time": "9:22.999",
+    "date": "2018-AUG-2",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Kavin Tangtartharakul",
+    "time": "9:26.514",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
