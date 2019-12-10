@@ -1,9 +1,128 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "0:44.430",
+    "date": "2019-JUN-26",
+    "evidence": "https://youtu.be/2rlLH2YIB3g",
+    "comments": "423 moves, 9.50 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:56.827",
+    "date": "2019-AUG-1",
+    "evidence": "https://youtu.be/FjA_C53DXt4",
+    "comments": "422 moves, 7.43 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "1:01.732",
+    "date": "2019-SEP-1",
+    "evidence": "https://youtu.be/P1GC5j5q3YI",
+    "comments": "461 moves, 7.45 mps"
+  },
+  {
+    "name": "ZMangames",
+    "time": "1:15.060",
+    "date": "2019-JAN-20",
+    "evidence": "https://streamable.com/vj10h",
+    "comments": "412 moves, 5.48 mps"
+  },
+  {
+    "name": "whatshisbucket",
+    "time": "1:24.418",
+    "date": "2019-SEP-27",
+    "evidence": "https://www.youtube.com/watch?v=74-zyQtY3Pg",
+    "comments": "414 moves, 4.89 mps"
+  },
+  {
+    "name": "creepycat18",
+    "time": "1:48.201",
+    "date": "2019-OCT-27",
+    "evidence": "https://youtu.be/S_QMRMfxhnQ",
+    "comments": "524 moves, 4.83 mps"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "1:52.758",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "437 moves, 3.88 mps, 1.826 LP"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "2:02.518",
+    "date": "2018-AUG-7",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "ItzToad756",
+    "time": "2:20.122",
+    "date": "2019-JAN-29",
+    "evidence": "https://streamable.com/p4jou",
+    "comments": "(video no longer exists)"
+  },
+  {
+    "name": "anderium",
+    "time": "3:15.777",
+    "date": "2019-JAN-16",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/535183858598150144/9x9_PB_ao5_and_single.png",
+    "comments": "473 moves, 2.13 mps"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "3:19.822",
+    "date": "2018-AUG-19",
+    "evidence": "/",
+    "comments": "440 moves, 2.20 mps, 8.77 LP"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "3:45.610",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Azurite",
+    "time": "3:47.903",
+    "date": "2019-JAN-21",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/537100935214923799/unknown.png",
+    "comments": "592 moves, 2.59 mps"
+  },
+  {
+    "name": "GasterStreams",
+    "time": "3:55.758",
+    "date": "2019-MAY-25",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/581791843298312212/Screenshot_20190525-182825_Chrome.jpg",
+    "comments": "613 moves, 2.60 mps"
+  },
+  {
+    "name": "David Jiang",
+    "time": "4:42.999",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Joshua",
+    "time": "5:19.185",
+    "date": "2019-JAN-17",
+    "evidence": "https://cdn.discordapp.com/attachments/535959134282055681/539241890147598376/unknown.png",
+    "comments": "505 moves, 1.85 mps"
+  },
+  {
+    "name": "Chris Pedersen",
+    "time": "8:55.822",
+    "date": "2019-JAN-17",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/536758292899168258/unknown.png",
+    "comments": "522 moves, 0.97 mps"
+  },
+  {
+    "name": "Just some random dude",
+    "time": "12:25.321",
+    "date": "2019-JAN-17",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
