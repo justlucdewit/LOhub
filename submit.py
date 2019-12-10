@@ -80,6 +80,11 @@ if evnt == "9x95":
 if evnt == "9x9s":
 	event = "9x9 single"
 
+if evnt == "10x105":
+	event = "10x10 ao5"
+if evnt == "10x10s":
+	event = "10x10 single"
+
 print(f"pusing to {event}")
 
 while True:

@@ -1,9 +1,268 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "1:03.170",
+    "date": "2019-JUN-26",
+    "evidence": "https://youtu.be/mG_LvZMMwF8",
+    "comments": "580 moves, 9.17 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "1:14.833",
+    "date": "2019-AUG-1",
+    "evidence": "https://www.youtube.com/watch?v=OGVcEzrm7bQ",
+    "comments": "602 moves, 8.03 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "1:34.239",
+    "date": "2019-AUG-13",
+    "evidence": "https://youtu.be/Zh7j6NyVlW4",
+    "comments": "663 moves, 7.02 mps"
+  },
+  {
+    "name": "ZMangames",
+    "time": "1:58.646",
+    "date": "2019-JAN-14",
+    "evidence": "https://streamable.com/2l9dz",
+    "comments": "574 moves, 4.83 mps"
+  },
+  {
+    "name": "creepycat18",
+    "time": "2:05.265",
+    "date": "2019-NOV-25",
+    "evidence": "https://youtu.be/sgH6X0RPwfg",
+    "comments": "729 moves, 5.81 mps"
+  },
+  {
+    "name": "LiamXC",
+    "time": "2:15.846",
+    "date": "2019-JAN-19",
+    "evidence": "https://streamable.com/sdv3p",
+    "comments": "video does not show full solve"
+  },
+  {
+    "name": "Dawid Wojcik",
+    "time": "2:29.443",
+    "date": "2019-JAN-16",
+    "evidence": "https://www.youtube.com/watch?v=aNcyreFb4g8",
+    "comments": "629 moves, 4.20 mps"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "2:33.599",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "2:35.663",
+    "date": "2019-JAN-21",
+    "evidence": "https://youtu.be/1F8M6AjAKrk",
+    "comments": "633 moves, 4.06 mps"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "2:35.935",
+    "date": "2018-AUG-9",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Tortoise",
+    "time": "2:59.168",
+    "date": "2019-JAN-14",
+    "evidence": "https://www.youtube.com/watch?v=z_lLJll_r48",
+    "comments": "678 moves, 3.78 mps"
+  },
+  {
+    "name": "Dy Ray",
+    "time": "3:27.747",
+    "date": "2018-DEC-21",
+    "evidence": "https://cdn.discordapp.com/attachments/95625180205813760/525899133421223976/unknown.png",
+    "comments": "726 moves, 3.49 mps"
+  },
+  {
+    "name": "Exploder909",
+    "time": "3:40.395",
+    "date": "2019-DEC-6",
+    "evidence": "https://media.discordapp.net/attachments/435167993488736266/652540383481430095/Screenshot_2.png?width=600&height=400",
+    "comments": "765 moves, 3.47 mps"
+  },
+  {
+    "name": "Bryce Wilson",
+    "time": "3:56.515",
+    "date": "2018-DEC-20",
+    "evidence": "https://youtu.be/QL3VQNJHBWM",
+    "comments": "740 moves, 3.12 mps"
+  },
+  {
+    "name": "jo1215",
+    "time": "4:08.639",
+    "date": "2018-DEC-20",
+    "evidence": "https://www.youtube.com/watch?v=BOW_8FxcgEM",
+    "comments": "/"
+  },
+  {
+    "name": "epicface999",
+    "time": "4:33.846",
+    "date": "2019-FEB-17",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/557350424839979010/image0.png",
+    "comments": "715 moves, 2.61 mps"
+  },
+  {
+    "name": "Quary1805",
+    "time": "4:39.457",
+    "date": "2019-APR-23",
+    "evidence": "http://images.quary.cz/loopover/10-1-pb-1.png",
+    "comments": "743 moves, 2.66 mps"
+  },
+  {
+    "name": "Tatsu",
+    "time": "4:39.583",
+    "date": "2019-JAN-15",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/534818486124281866/4.39.583.PNG",
+    "comments": "820 moves, 2.93 mps"
+  },
+  {
+    "name": "Tertian22",
+    "time": "4:50.282",
+    "date": "2019-JAN-17",
+    "evidence": "https://youtu.be/VdIxEOhWTQk",
+    "comments": "731 moves, 2.51 mps"
+  },
+  {
+    "name": "Murray Peh",
+    "time": "4:59.451",
+    "date": "2018-DEC-21",
+    "evidence": "https://youtu.be/cyk9WKbCyMo",
+    "comments": "671 moves, 2.24 mps"
+  },
+  {
+    "name": "Zsolt Balla",
+    "time": "5:11.607",
+    "date": "2018-DEC-20",
+    "evidence": "https://youtu.be/KxJfPlJrhBU",
+    "comments": "518 moves, 1.66 mps"
+  },
+  {
+    "name": "KeyCollector",
+    "time": "5:24.089",
+    "date": "2019-JUL-18",
+    "evidence": "https://cdn.discordapp.com/attachments/601487206150045702/601487443946111009/10x10.PNG",
+    "comments": "811 moves, 2.50 mps"
+  },
+  {
+    "name": "anderium",
+    "time": "5:33.767",
+    "date": "2019-JAN-16",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/535185505021591553/10x10.png",
+    "comments": "657 moves, 1.97 mps"
+  },
+  {
+    "name": "MutanGFX",
+    "time": "5:39.280",
+    "date": "2019-JAN-5",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/531169012600799261/unknown.png",
+    "comments": "767 moves, 2.26 mps"
+  },
+  {
+    "name": "Carter Kucala",
+    "time": "6:10.780",
+    "date": "2018-AUG-8",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "6:11.844",
+    "date": "2018-DEC-31",
+    "evidence": "https://i.imgur.com/P9EdMCV.png",
+    "comments": "750 moves, 2.01 mps"
+  },
+  {
+    "name": "Scootch",
+    "time": "6:17.272",
+    "date": "2019-JAN-14",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/534431792015605760/Screen_Shot_2019-01-14_at_6.59.19_PM.png",
+    "comments": "724 moves, 1.92 mps"
+  },
+  {
+    "name": "Joshua",
+    "time": "6:25.524",
+    "date": "2019-JAN-22",
+    "evidence": "https://cdn.discordapp.com/attachments/535959134282055681/539248390463029268/unknown.png",
+    "comments": "786 moves, 2.04 mps"
+  },
+  {
+    "name": "Aedan Bryant",
+    "time": "6:54.685",
+    "date": "2018-DEC-19",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Ethan Dennis",
+    "time": "6:55.973",
+    "date": "2018-AUG-8",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Oliver Wheat",
+    "time": "7:11.046",
+    "date": "2018-DEC-20",
+    "evidence": "https://youtu.be/L2cZTltG7fk",
+    "comments": "666 moves, 1.54 mps"
+  },
+  {
+    "name": "Michael S.",
+    "time": "7:30.014",
+    "date": "2019-JAN-26",
+    "evidence": "https://i.gyazo.com/thumb/1200/624b72a6cb6654486b16d86ebc505c74-png.jpg",
+    "comments": "842 moves, 1.87 mps"
+  },
+  {
+    "name": "Owen Hjerpe",
+    "time": "7:51.647",
+    "date": "2018-DEC-19",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Kathy Huynh",
+    "time": "7:52.561",
+    "date": "2018-DEC-20",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "ZigmaZero",
+    "time": "9:34.560",
+    "date": "2019-JAN-26",
+    "evidence": "https://cdn.discordapp.com/attachments/442932921548931072/538724518475071499/Screenshot_2019-01-26-21-13-50-137_com.android.chrome.png",
+    "comments": "836 moves, 1.45 mps"
+  },
+  {
+    "name": "M4CR0B4T",
+    "time": "12:44.308",
+    "date": "2019-JAN-8",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/532349946658291712/123123.PNG",
+    "comments": "802 moves, 1.05 mps"
+  },
+  {
+    "name": "Nolan Wilcox",
+    "time": "29:31.582",
+    "date": "2018-DEC-19",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Harry",
+    "time": "7:04.201",
+    "date": "2019-JUL-31",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/605924926825955328/image0.png",
+    "comments": "749 moves, 1.76 mps"
+  }
 ]
