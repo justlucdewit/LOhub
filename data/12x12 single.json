@@ -1,9 +1,72 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "1:51.721",
+    "date": "2019-AUG-21",
+    "evidence": "https://youtu.be/mNKzpSohcR4",
+    "comments": "810 moves, 7.24 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "2:30.477",
+    "date": "2019-AUG-11",
+    "evidence": "https://www.youtube.com/watch?v=kvF4a9FBdUE",
+    "comments": "1049 moves, 6.96 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "3:04.709",
+    "date": "2019-AUG-09",
+    "evidence": "https://streamable.com/83p0g",
+    "comments": "1118 moves, 6.05 mps"
+  },
+  {
+    "name": "Tatsu",
+    "time": "4:45.235",
+    "date": "2019-JAN-25",
+    "evidence": "https://youtu.be/pJVh6Ux0r_0",
+    "comments": "1243 moves, 4.35 mps"
+  },
+  {
+    "name": "Dawid Wojcik",
+    "time": "4:47.587",
+    "date": "2019-JAN-25",
+    "evidence": "https://youtu.be/t5IxtGuWpmc",
+    "comments": "1188 moves, 4.13 mps"
+  },
+  {
+    "name": "HolyChaos45",
+    "time": "5:02.602",
+    "date": "2019-SEP-28",
+    "evidence": "https://youtu.be/oObFlSHJJnI",
+    "comments": "974 moves, 3.22 mps"
+  },
+  {
+    "name": "Tortoise",
+    "time": "7:22.447",
+    "date": "2019-JAN-14",
+    "evidence": "https://www.youtube.com/watch?v=Z0r-gSnaLgc",
+    "comments": "1142 moves, 2.58 mps"
+  },
+  {
+    "name": "GasterStreams",
+    "time": "10:06.214",
+    "date": "2019-JUN-7",
+    "evidence": "https://cdn.discordapp.com/attachments/330270795022467072/586172383057149953/Screenshot_20190606-203926_Chrome.jpg",
+    "comments": "1307 moves, 2.15 mps"
+  },
+  {
+    "name": "hugh",
+    "time": "16:05.551",
+    "date": "2019-JAN-14",
+    "evidence": "https://www.youtube.com/watch?v=Q4i-0lsUTF8",
+    "comments": "1236 moves, 1.28 mps"
+  },
+  {
+    "name": "Chris Pedersen",
+    "time": "20:16.067",
+    "date": "2019-JAN-18",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/536216816264151040/unknown.png",
+    "comments": "/"
+  }
 ]
