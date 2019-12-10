@@ -1,9 +1,51 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "1:12.834",
+    "date": "2019-JUL-6",
+    "evidence": "https://youtu.be/WV19qWqly1o",
+    "comments": "1:13.661, 1:11.522, (1:09.408), (1:17.316), 1:13.318 "
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "1:23.790",
+    "date": "2019-SEP-4",
+    "evidence": "https://youtu.be/tpJWLaYYAYY",
+    "comments": "1:23.995, 1:22.509, (1:26.422), (1:20.869), 1:24.867"
+  },
+  {
+    "name": "Eesti",
+    "time": "2:09.216",
+    "date": "2019-JUL-5",
+    "evidence": "https://drive.google.com/file/d/1H0Eiqas4R9eyibSS-cweitmenVXm2FOR/view?usp=drivesdk",
+    "comments": "(2:17.339), (2:02.379), 2:11.825, 2:03.337, 2:11.886"
+  },
+  {
+    "name": "LiamXC",
+    "time": "2:28.186",
+    "date": "2019-JAN-22",
+    "evidence": "https://youtu.be/W_Z4Qsw66mk",
+    "comments": "(2:24.654), 2:25.902, 2:29.690, (2:58.651), 2:28.966"
+  },
+  {
+    "name": "ZMangames",
+    "time": "2:28.955",
+    "date": "2019-JAN-14",
+    "evidence": "https://youtu.be/iRV-Ze34NLk",
+    "comments": "(2:00.539), 2:08.140, (2:49.279), 2:39.071, 2:39.654"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "2:37.718",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "2:38.315",
+    "date": "2018-AUG-10",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
