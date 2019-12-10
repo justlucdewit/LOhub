@@ -12,8 +12,6 @@ if len(argv) > 1 and argv[1] == "send":
 
 months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"]
 
-
-
 def submit(name, time, link, moves, date):
 	now = datetime.datetime.now()
 	submission = {'name':None, 'time':None, 'date':None, 'evidence':None, 'comments':None}
@@ -71,6 +69,11 @@ if evnt == "7x7f":
 	event = "7x7 FMC"
 if evnt == "7x7s":
 	event = "7x7 single"
+
+if evnt == "8x85":
+	event = "8x8 ao5"
+if evnt == "8x8s":
+	event = "8x8 single"
 
 print(f"pusing to {event}")
 

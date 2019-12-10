@@ -1,3 +1,121 @@
 [
-
+  {
+    "name": "nng",
+    "time": "0:29.598",
+    "date": "2019-NOV-17",
+    "evidence": "https://youtu.be/rMbRCPOmbkM",
+    "comments": "287 moves, 9.66 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:35.732",
+    "date": "2019-OCT-8",
+    "evidence": "https://www.youtube.com/watch?v=PvRUkjIgIFg&t=5m40s",
+    "comments": "281 moves, 7.84 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "0:44.883",
+    "date": "2019-AUG-1",
+    "evidence": "https://streamable.com/8mzt0",
+    "comments": "310 moves, 6.88 mps"
+  },
+  {
+    "name": "ZMangames",
+    "time": "0:48.633",
+    "date": "2019-JAN-19",
+    "evidence": "https://streamable.com/77hbk",
+    "comments": "287 moves, 4.82 mps"
+  },
+  {
+    "name": "whatshisbucket",
+    "time": "0:59.218",
+    "date": "2019-SEP-27",
+    "evidence": "https://www.youtube.com/watch?v=s7LdZJdcHV0",
+    "comments": "279 moves, 4.69 mps"
+  },
+  {
+    "name": "creepycat18",
+    "time": "0:50.577",
+    "date": "2019-NOV-5",
+    "evidence": "https://youtu.be/fpqIvCiGg5o",
+    "comments": "342 moves, 6.74 mps"
+  },
+  {
+    "name": "ItzToad576",
+    "time": "1:12.496",
+    "date": "2019-FEB-14",
+    "evidence": "https://streamable.com/gxcn5",
+    "comments": "(video no longer exists)"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "1:16.323",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "1:20.401",
+    "date": "2018-AUG-7",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "AforAmpere",
+    "time": "1:22.542",
+    "date": "2019-JUN-3",
+    "evidence": "https://streamable.com/6qy21",
+    "comments": "363 moves, 4.39 mps"
+  },
+  {
+    "name": "ASCII",
+    "time": "1:51.854",
+    "date": "2019-JAN-21",
+    "evidence": "https://cdn.discordapp.com/attachments/518966388124024832/536909657885900821/image0.png",
+    "comments": "337 moves, 3.00 mps"
+  },
+  {
+    "name": "KailoArriba",
+    "time": "1:54.165",
+    "date": "2019-JAN-19",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/536344925311336448/unknown.png",
+    "comments": "353 moves, 3.08 mps"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "2:13.966",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "2:36.395",
+    "date": "2018-AUG-5",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "ImperialWaffle",
+    "time": "3:12.046",
+    "date": "2019-JAN-22",
+    "evidence": "https://www.twitch.tv/imperialwaffle521",
+    "comments": "(links to account)"
+  },
+  {
+    "name": "Zsolt Balla",
+    "time": "3:37.718",
+    "date": "2018-DEC-20",
+    "evidence": "https://youtu.be/3Ts6fLQxnuI",
+    "comments": "330 moves, 1.52 mps"
+  },
+  {
+    "name": "David Jiang",
+    "time": "3:40.778",
+    "date": "2018-AUG-3",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
