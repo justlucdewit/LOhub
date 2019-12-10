@@ -1,9 +1,37 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "3:04.799",
+    "date": "2019-AUG-20",
+    "evidence": "https://youtu.be/bhF1FnXVOt8",
+    "comments": "1196 moves, 6.47 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "4:00.674",
+    "date": "2019-AUG-19",
+    "evidence": "https://youtu.be/gM79hcNoCFo",
+    "comments": "1610 moves, 6.69 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "5:02.608",
+    "date": "2019-AUG-19",
+    "evidence": "https://youtu.be/QSO1AW-mQxM",
+    "comments": "1642 moves, 5.42 mps"
+  },
+  {
+    "name": "HolyChaos45",
+    "time": "8:25.103",
+    "date": "2019-OCT-6",
+    "evidence": "https://youtu.be/xfre21zw9RE",
+    "comments": "1604 moves, 3.17 mps"
+  },
+  {
+    "name": "Christopher Pedersen",
+    "time": "25:44.306",
+    "date": "2019-OCT-6",
+    "evidence": "https://cdn.discordapp.com/attachments/501917321594535948/630586641253400577/unknown.png",
+    "comments": "2206 moves, 1.43 mps"
+  }
 ]
