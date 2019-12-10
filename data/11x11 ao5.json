@@ -1,9 +1,37 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "tester",
+    "time": "super fast",
+    "date": "prehistoric ages",
+    "evidence": "no need",
+    "comments": "0 moves"
+  },
+  {
+    "name": "nng",
+    "time": "1:38.362",
+    "date": "2019-SEP-22",
+    "evidence": "https://youtu.be/s4aB8bspnAg",
+    "comments": "1:37.283, 1:38.508, (1:37.013), (1:47.476), 1:39.294"
+  },
+  {
+    "name": "Eesti",
+    "time": "2:22.235",
+    "date": "2019-SEP-4",
+    "evidence": "https://youtu.be/gqo3VcQrHBM",
+    "comments": "2:22.040, 2:14.757, 2:29.907, (2:30.262), (2:11.231)"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "3:52.730",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "3:59.526",
+    "date": "2018-AUG-7",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
