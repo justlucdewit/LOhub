@@ -1,9 +1,44 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "0:57.905",
+    "date": "2019-JUN-9",
+    "evidence": "https://youtu.be/ylq3pSKwyyE",
+    "comments": "57.855, 58.525, (57.308), 57.334, (58.685)"
+  },
+  {
+    "name": "Eesti",
+    "time": "1:09.309",
+    "date": "2019-AUG-10",
+    "evidence": "https://youtu.be/ETumuer04Ug",
+    "comments": "1:12.976, 1:06.577, 1:08.375, (1:16.349), (1:04.904)"
+  },
+  {
+    "name": "ZMangames",
+    "time": "1:25.326",
+    "date": "2019-JAN-16",
+    "evidence": "https://streamable.com/2s2wb",
+    "comments": "1:24.710, 1:24.540, (1:49.404), (1:22.212), 1:26.729"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "2:02.567",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "2:10.810",
+    "date": "2018-AUG-7",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "anderium",
+    "time": "3:44.983",
+    "date": "2019-JAN-16",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/535183858598150144/9x9_PB_ao5_and_single.png",
+    "comments": "(4:35.556), 4:14.219, (3:15.777), 3:19.511, 3:41.218"
+  }
 ]
