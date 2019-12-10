@@ -1,3 +1,44 @@
 [
-
+  {
+    "name": "nng",
+    "time": "0:40.957",
+    "date": "2019-JUN-8",
+    "evidence": "https://youtu.be/VEAbleKQT7I",
+    "comments": "(37.029), 43.075, 39.377, (44.874), 40.419"
+  },
+  {
+    "name": "Eesti",
+    "time": "0:49.876",
+    "date": "2019-AUG-23",
+    "evidence": "https://youtu.be/AjxenkQ3yJc",
+    "comments": "47.700, (57.809), 48.321, (47.223), 53.607"
+  },
+  {
+    "name": "ZMangames",
+    "time": "1:09.477",
+    "date": "2019-JAN-14",
+    "evidence": "https://streamable.com/dx7aq",
+    "comments": "1:06.531, 1:04.266, (1:17.942), (59.310), 1:17.633"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "1:24.751",
+    "date": "2018-AUG-18",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "1:26.875",
+    "date": "2018-AUG-7",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:41.785",
+    "date": "2019-OCT-8",
+    "evidence": "https://www.youtube.com/watch?v=PvRUkjIgIFg&t=3m10s",
+    "comments": "43.769, (46.322), 41.929, (35.732), 39.657"
+  }
 ]
