@@ -38,12 +38,6 @@ function build(obj, rank, catagory){
 		evidencecell.innerHTML = "<a href="+obj.evidence+">Link</a>"
 	}
 	
-	// const linkText = document.createTextNode("Link");
-	// const a = document.createElement('a').appendChild(linkText);
-	
-	// a.title = "Link";
-	// a.href = obj.evidence;
-	// evidencecell.appendChild(a);
 	console.log(obj.comments)
 	if (obj.comments != "/"){
 		commentcell.innerHTML = obj.comments;
@@ -57,16 +51,9 @@ function tableClear(){
 	}
 }
 
-//handeling the form input----------------------------------------------------------------------------------
 function changeEvent(){
 	const event = document.getElementById("dropdown").value;
-
-	//change title
 	document.getElementById("event").innerText = event;
-
-	//clear table
 	tableClear()
-
-	//load new data
 	load(event);
 }
