@@ -1,9 +1,79 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "nng",
+    "time": "3:59.380",
+    "date": "2019-AUG-22",
+    "evidence": "https://youtu.be/QbLATGaE9Sg",
+    "comments": "1269 moves, 5.30 mps"
+  },
+  {
+    "name": "Eesti",
+    "time": "7:34.209",
+    "date": "2019-JUL-8",
+    "evidence": "https://streamable.com/sx67d",
+    "comments": "2277 moves, 5.01 mps"
+  },
+  {
+    "name": "Tortoise",
+    "time": "9:33.071",
+    "date": "2019-JAN-19",
+    "evidence": "https://www.youtube.com/watch?v=PxY2RZaiMuQ",
+    "comments": "2273 moves, 3.96 mps"
+  },
+  {
+    "name": "HolyChaos45",
+    "time": "11:46.751",
+    "date": "2019-APR-30",
+    "evidence": "https://imgur.com/a/gpF3mVy",
+    "comments": "2229 moves, 3.15 mps"
+  },
+  {
+    "name": "Walker Welch",
+    "time": "12:14.484",
+    "date": "2018-AUG-17",
+    "evidence": "/",
+    "comments": "2.51 mps"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "12:17.584",
+    "date": "2018-AUG-6",
+    "evidence": "/",
+    "comments": "2.64 mps"
+  },
+  {
+    "name": "Dylan Dai",
+    "time": "17:30.439",
+    "date": "2018-DEC-20",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "voidUpdate",
+    "time": "18:40.072",
+    "date": "2019-APR-7",
+    "evidence": "https://youtu.be/Hta1hYZHICU",
+    "comments": "2248 moves, 2.01 mps"
+  },
+  {
+    "name": "Cale Schoon",
+    "time": "20:25.094",
+    "date": "2018-AUG-4",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Anderium",
+    "time": "24:22.857",
+    "date": "2018-DEC-21",
+    "evidence": "https://drive.google.com/open?id=1WlNZte951r0GAwB9oAdQhuB22WSJgKop",
+    "comments": "2258 moves, 1.54 mps"
+  },
+  {
+    "name": "Zsolt Balla",
+    "time": "34:07.364",
+    "date": "2018-DEC-20",
+    "evidence": "https://drive.google.com/file/d/1kC3-CThxuExYJ8u5YiMYKlQ9Inh0iFVr/view?usp=sharing",
+    "comments": "2622 moves, 1.28 mps"
+  }
 ]
