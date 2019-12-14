@@ -1,9 +1,16 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "Tortoise",
+    "time": "9:59.014",
+    "date": "2019-JAN-19",
+    "evidence": "https://www.youtube.com/watch?v=PxY2RZaiMuQ",
+    "comments": "9:41.635, 9:33.071, 10:42.337"
+  },
+  {
+    "name": "Ling Ling",
+    "time": "30:22.097",
+    "date": "2019-JUL-12",
+    "evidence": "http://imgur.com/qeThScB",
+    "comments": "24:55.619, 36:42.415, 29:28.256"
+  }
 ]
