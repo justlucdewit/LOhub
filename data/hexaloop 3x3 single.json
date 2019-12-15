@@ -1,9 +1,23 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "Eesti",
+    "time": "0:00:09.648",
+    "date": "2019-OCT-5",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/630038310747766784/video0.mp4",
+    "comments": "36 moves, 3.63 mps"
+  },
+  {
+    "name": "creepycat18",
+    "time": "0:00:37.545",
+    "date": "2019-SEP-20",
+    "evidence": "https://youtu.be/bPBH2L0snUE",
+    "comments": "64 moves, 1.68 mps"
+  },
+  {
+    "name": "luc de wit",
+    "time": "0:00:38.043",
+    "date": "2019-SEP-11",
+    "evidence": "https://cdn.discordapp.com/attachments/526601457705812008/621248574260510741/unknown.png",
+    "comments": "49 moves, 1.26 mps"
+  }
 ]

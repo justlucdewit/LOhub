@@ -115,6 +115,13 @@ if evnt == "20x203":
 if evnt == "20x20s":
 	event = "20x20 single"
 
+if evnt == "hex3":
+	event = "hexaloop 3x3 single"
+if evnt == "hex4":
+	event = "hexaloop 4x4 single"
+if evnt == "hex3f":
+	event = "hexaloop 3x3 FMC"
+
 print(f"pusing to {event}")
 
 while True:
