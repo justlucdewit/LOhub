@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "Blue Cuboid",
+    "time": "1:36.693",
+    "date": "2019-SEP-10",
+    "evidence": "https://www.youtube.com/watch?v=mKuWRYzLyyk&t=2m23s",
+    "comments": "687 moves, 7.09 mps"
+  },
+  {
+    "name": "syustel",
+    "time": "3:59.646",
+    "date": "2019-FEB-5",
+    "evidence": "https://youtu.be/Jbs3II8dB5Q",
+    "comments": "1216 moves, 5.07 mps"
+  },
+  {
+    "name": "orucsoraihc",
+    "time": "4:44.223",
+    "date": "2019-JAN-29",
+    "evidence": "https://youtu.be/oNd8BIO9-1s",
+    "comments": "1082 moves, 3.80 mps"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "60:44.927",
+    "date": "2019-JAN-19",
+    "evidence": "https://www.youtube.com/watch?v=_5Uu5qVVf2I",
+    "comments": "1240 moves, 4.82 mps"
+  }
+]
