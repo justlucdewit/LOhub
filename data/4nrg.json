@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "name": "syustel",
+    "time": "0:15.563",
+    "date": "2019-FEB-19",
+    "evidence": "https://youtu.be/F0dPzFoGbmI",
+    "comments": "118 moves, 7.52 mps"
+  },
+  {
+    "name": "Blue Cuboid",
+    "time": "0:24.801",
+    "date": "2019-AUG-21",
+    "evidence": "https://www.youtube.com/watch?v=tXeQuRiyJZ8&t=49",
+    "comments": "191 moves, 7.66 mps"
+  },
+  {
+    "name": "ZMangames",
+    "time": "1:30.417",
+    "date": "2019-JAN-25",
+    "evidence": "https://streamable.com/02ha3",
+    "comments": "292 moves, 3.22 mps"
+  },
+  {
+    "name": "Cary Huang",
+    "time": "1:57.889",
+    "date": "2019-JAN-29",
+    "evidence": "https://www.youtube.com/watch?v=6D1N51lzYlM",
+    "comments": "/"
+  }
+]

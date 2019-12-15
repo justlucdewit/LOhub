@@ -122,6 +122,15 @@ if evnt == "hex4":
 if evnt == "hex3f":
 	event = "hexaloop 3x3 FMC"
 
+if evnt == "4nrg":
+	event = "4nrg"
+if evnt == "5nrg":
+	event = "5nrg"
+if evnt == "6nrg":
+	event = "6nrg"
+if evnt == "7nrg":
+	event = "7nrg"
+
 print(f"pusing to {event}")
 
 while True:
