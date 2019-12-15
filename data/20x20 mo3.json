@@ -1,9 +1,16 @@
 [
-    {
-        "name": "tester",
-        "time": "super fast",
-        "date": "prehistoric ages",
-        "evidence": "no need",
-        "comments": "0 moves"
-    }
+  {
+    "name": "Walker Welch",
+    "time": "25:23.490",
+    "date": "2018-DEC-20",
+    "evidence": "/",
+    "comments": "/"
+  },
+  {
+    "name": "Brian Johnson",
+    "time": "43:31.137",
+    "date": "2018-AUG-02",
+    "evidence": "/",
+    "comments": "/"
+  }
 ]
