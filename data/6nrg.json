@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "Blue Cuboid",
+    "time": "1:51.175",
+    "date": "2019-SEP-11",
+    "evidence": "https://www.youtube.com/watch?v=AKJJFZbMvtk",
+    "comments": "854 moves, 7.67 mps"
+  },
+  {
+    "name": "syustel",
+    "time": "2:02.665",
+    "date": "2019-SEP-1",
+    "evidence": "https://youtu.be/_srD0Bi3vB4",
+    "comments": "997 moves, 8.12 mps"
+  }
+]
