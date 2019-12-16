@@ -34,7 +34,7 @@ if len(argv) > 1 and argv[1] == "correct":
 				time[0] += 60000*time[2]
 				time[2] = 0
 			if len(time) > 3:#add hours to the mills
-				time[0] += 360000*time[3]
+				time[0] += 3600000*time[3]
 				time[3] = 0
 
 			time = time[0]
@@ -44,10 +44,7 @@ if len(argv) > 1 and argv[1] == "correct":
 		newarr = []
 		for i in found:
 			newarr.append(i[1])
-		print(newarr)
-
-		print()
-
+		json_array = newarr
 		#remove doubles
 		found = []
 		for i, submission in enumerate(json_array):
@@ -60,7 +57,7 @@ if len(argv) > 1 and argv[1] == "correct":
 
 		with open(f'data/{event}.json', 'w', encoding='utf-8') as outfile:
 			#outfile.write(str(json_array))
-			dump(newarr, outfile, ensure_ascii=False, indent=2)
+			dump(json_array, outfile, ensure_ascii=False, indent=2)
 	exit()
 
 months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"]
