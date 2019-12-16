@@ -210,6 +210,13 @@
     "comments": "/"
   },
   {
+    "name": "Harry",
+    "time": "7:04.201",
+    "date": "2019-JUL-31",
+    "evidence": "https://media.discordapp.net/attachments/526601457705812008/605924926825955328/image0.png",
+    "comments": "749 moves, 1.76 mps"
+  },
+  {
     "name": "Oliver Wheat",
     "time": "7:11.046",
     "date": "2018-DEC-20",
@@ -257,12 +264,5 @@
     "date": "2018-DEC-19",
     "evidence": "/",
     "comments": "/"
-  },
-  {
-    "name": "Harry",
-    "time": "7:04.201",
-    "date": "2019-JUL-31",
-    "evidence": "https://media.discordapp.net/attachments/526601457705812008/605924926825955328/image0.png",
-    "comments": "749 moves, 1.76 mps"
   }
 ]

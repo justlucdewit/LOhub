@@ -38,7 +38,6 @@ function build(obj, rank, catagory){
 		evidencecell.innerHTML = "<a href="+obj.evidence+">Link</a>"
 	}
 	
-	console.log(obj.comments)
 	if (obj.comments != "/"){
 		commentcell.innerHTML = obj.comments;
 	}

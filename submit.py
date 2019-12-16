@@ -3,12 +3,65 @@ import datetime
 from sys import argv
 from os import system as s
 
+events = ["3x3 blind ao5", "4nrg", "4x4 ao5", "4x4 blind", "4x4 FMC", "4x4 single", "5nrg", "5x5 ao5", "5x5 blind", "5x5 FMC", "5x5 single", "6nrg", "6x6 ao5", "6x6 FMC", "6x6 single", "7nrg", "7x7 ao5", "7x7 FMC", "7x7 single", "8x8 ao5", "8x8 single", "9x9 ao5", "9x9 single", "10x10 ao5", "10x10 single", "11x11 ao5", "11x11 single", "12x12 ao5", "12x12 single", "13x13 ao5", "13x13 single", "14x14 ao5", "14x14 single", "15x15 mo3", "15x15 single", "20x20 mo3", "20x20 single", "hexaloop 3x3 FMC", "hexaloop 3x3 single", "hexaloop 4x4 single"]
+
+def sortfirst(val):
+	return val[0]
+
 if len(argv) > 1 and argv[1] == "send":
 	s("git add .")
 	s("git commit -m \"added more submissions\"")
 	s("git push origin master")
 	exit()
 
+if len(argv) > 1 and argv[1] == "correct":
+	for event in events:
+		with open(f"data/{event}.json", "r") as file:
+			json_array = load(file)
+
+		#resorting
+		found = []
+		for i, submission in enumerate(json_array):
+			name = submission["name"]
+			time = submission["time"]
+			time = [int(i) for i in time.replace(".", ":").split(":")]
+			time.reverse()
+
+			if len(time) > 1:#add the secs to the mils
+				time[0] += 1000*time[1]
+				time[1] = 0
+			if len(time) > 2:#add the mins to the mills
+				time[0] += 60000*time[2]
+				time[2] = 0
+			if len(time) > 3:#add hours to the mills
+				time[0] += 360000*time[3]
+				time[3] = 0
+
+			time = time[0]
+			found.append([time, submission])
+		
+		found.sort(key=sortfirst)
+		newarr = []
+		for i in found:
+			newarr.append(i[1])
+		print(newarr)
+
+		print()
+
+		#remove doubles
+		found = []
+		for i, submission in enumerate(json_array):
+			name = submission['name']
+			if name in found:
+				print(f"removing double sumbission from {name} in event {event}")
+				json_array.pop(i)
+			else:
+				found.append(name)
+
+		with open(f'data/{event}.json', 'w', encoding='utf-8') as outfile:
+			#outfile.write(str(json_array))
+			dump(newarr, outfile, ensure_ascii=False, indent=2)
+	exit()
 
 months = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"]
 
@@ -45,8 +98,6 @@ if evnt == "4x4f":
 if evnt == "4x4b":
 	event = "4x4 blind"
 
-if evnt == "5x55":
-	event = "5x5 ao5"
 if evnt == "5x55":
 	event = "5x5 ao5"
 if evnt == "5x5b":
